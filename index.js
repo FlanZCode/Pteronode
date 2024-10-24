@@ -21,7 +21,7 @@ class PteronodeClient {
         } catch (error) {
             throw error;
         }
-    }
+    } 
 
     async account() {
         return {
