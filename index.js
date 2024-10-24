@@ -9,7 +9,7 @@ const { getAPIKeys } = require('./api/client/account/getAPIKeys.js');
 const { createAPIKey } = require('./api/client/account/createAPIKey.js');
 const { deleteAPIKey } = require('./api/client/account/deleteAPIKey.js');
 
-class PteronodeClient {
+class PteroClient {
     constructor(apiKey, baseUrl) {
         this.apiKey = apiKey;
         this.baseUrl = baseUrl;
@@ -74,11 +74,11 @@ class PteronodeClient {
     }
 }
 
-class PteronodeApplication {
+class PteroApplication {
     constructor(apiKey, baseUrl) {
         this.apiKey = apiKey;
         this.baseUrl = baseUrl;
     }
 }
 
-module.exports = { PteronodeClient, PteronodeApplication };
+module.exports = { PteroClient, PteroApplication };

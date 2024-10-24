@@ -1,5 +1,5 @@
 {
-  "name": "@flanzcode/pteronode",
+  "name": "pterodactyl-js",
   "version": "1.0.0-beta.0",
   "main": "index.js",
   "scripts": {
@@ -7,7 +7,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/FlanZCode/Pteronode.git"
+    "url": "git+https://github.com/FlanZCode/pterodactyl-js.git"
   },
   "keywords": [
     "nodejs",
@@ -20,13 +20,13 @@
     "pterodactyl-api",
     "accountmanagement",
     "clientlibrary",
-    "pteronode"
+    "pterodactyl-js"
   ],
   "author": "FlanZCode",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/FlanZCode/Pteronode/issues"
+    "url": "https://github.com/FlanZCode/pterodactyl-js/issues"
   },
-  "homepage": "https://github.com/FlanZCode/Pteronode#readme",
-  "description": "Pteronode - A comprehensive Node.js client for interacting with the Pterodactyl API. Simplify and streamline server management tasks."
+  "homepage": "https://github.com/FlanZCode/pterodactyl-js#readme",
+  "description": "Pterodactyl-JS - A comprehensive Node.js client for interacting with the Pterodactyl API. Simplify and streamline server management tasks."
 }
