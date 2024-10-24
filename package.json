@@ -1,6 +1,6 @@
 {
   "name": "pteronode",
-  "version": "1.0.0",
+  "version": "1.0.0-beta",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,11 +9,24 @@
     "type": "git",
     "url": "git+https://github.com/FlanZCode/Pteronode.git"
   },
+  "keywords": [
+    "nodejs",
+    "api",
+    "panel",
+    "pterodactyl",
+    "pterodactyl-panel-api",
+    "pterodactyl-panel",
+    "servermanagement",
+    "pterodactyl-api",
+    "accountmanagement",
+    "clientlibrary",
+    "pteronode"
+  ],
   "author": "FlanZCode",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/FlanZCode/Pteronode/issues"
   },
   "homepage": "https://github.com/FlanZCode/Pteronode#readme",
-  "description": ""
+  "description": "Pteronode - A comprehensive Node.js client for interacting with the Pterodactyl API. Simplify and streamline server management tasks."
 }
