@@ -1,5 +1,5 @@
 {
-  "name": "@flanzcode/pteronode",
+  "name": "pteronode",
   "version": "1.0.0-beta",
   "main": "index.js",
   "scripts": {
