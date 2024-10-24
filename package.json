@@ -2,9 +2,6 @@
   "name": "pteronode",
   "version": "1.0.0-beta",
   "main": "index.js",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@FlanZCode"
-  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
